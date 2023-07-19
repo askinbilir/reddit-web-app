@@ -1,0 +1,4 @@
+export const Config = {
+  INFINITE_SCROLL_PAGINATION_RESULTS: 2,
+  CACHE_AFTER_UPVOTES: 1
+} as const
